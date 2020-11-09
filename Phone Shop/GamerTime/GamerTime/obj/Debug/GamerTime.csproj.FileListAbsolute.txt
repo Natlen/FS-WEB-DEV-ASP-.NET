@@ -1,0 +1,288 @@
+C:\Users\home\source\repos\GamerTime\GamerTime\obj\Debug\GamerTime.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\GamerTime.dll.config
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\GamerTime.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\GamerTime.pdb
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\csc.exe
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\csc.exe.config
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\csc.rsp
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\csi.exe
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\csi.exe.config
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\csi.rsp
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\System.AppContext.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\System.Console.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\System.IO.Compression.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\System.IO.Pipes.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\System.Security.Claims.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\System.Threading.Thread.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\System.ValueTuple.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\System.Xml.XPath.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\vbc.exe
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\vbc.exe.config
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\vbc.rsp
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\VBCSCompiler.exe
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\home\source\repos\GamerTime\GamerTime\obj\Debug\GamerTime.csproj.CopyComplete
+C:\Users\home\source\repos\GamerTime\GamerTime\obj\Debug\GamerTime.dll
+C:\Users\home\source\repos\GamerTime\GamerTime\obj\Debug\GamerTime.pdb
+C:\Users\home\source\repos\GamerTime\GamerTime\obj\Debug\GamerTime.csprojResolveAssemblyReference.cache
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\GamerTime.dll.config
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\GamerTime.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\GamerTime.pdb
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\csc.exe
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\csc.exe.config
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\csc.rsp
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\csi.exe
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\csi.exe.config
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\csi.rsp
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\System.AppContext.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\System.Console.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\System.IO.Compression.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\System.Security.Claims.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\System.ValueTuple.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\vbc.exe
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\vbc.exe.config
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\vbc.rsp
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\VBCSCompiler.exe
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\obj\Debug\GamerTime.csprojResolveAssemblyReference.cache
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\obj\Debug\GamerTime.csproj.CoreCompileInputs.cache
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\obj\Debug\GamerTime.csproj.CopyComplete
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\obj\Debug\GamerTime.dll
+C:\Users\ygurfink\Documents\לימודים\web\אתר משחקי מחשב\קבצי אתר\GamerTime\GamerTime\obj\Debug\GamerTime.pdb
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\GamerTime.dll.config
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\GamerTime.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\GamerTime.pdb
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\csc.exe
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\csc.exe.config
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\csc.rsp
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\csi.exe
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\csi.exe.config
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\csi.rsp
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\System.AppContext.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\System.Console.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\System.IO.Compression.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\System.Security.Claims.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\System.ValueTuple.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\vbc.exe
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\vbc.exe.config
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\vbc.rsp
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\VBCSCompiler.exe
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\obj\Debug\GamerTime.csprojResolveAssemblyReference.cache
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\obj\Debug\GamerTime.csproj.CoreCompileInputs.cache
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\obj\Debug\GamerTime.csproj.CopyComplete
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\obj\Debug\GamerTime.dll
+C:\Users\ygurfink\Desktop\web project Yuri Gurfinkel and Yelena Yudovich\Database\GamerTime\GamerTime\obj\Debug\GamerTime.pdb
+C:\GamerTime\GamerTime\bin\GamerTime.dll.config
+C:\GamerTime\GamerTime\bin\GamerTime.dll
+C:\GamerTime\GamerTime\bin\GamerTime.pdb
+C:\GamerTime\GamerTime\bin\roslyn\csc.exe
+C:\GamerTime\GamerTime\bin\roslyn\csc.exe.config
+C:\GamerTime\GamerTime\bin\roslyn\csc.rsp
+C:\GamerTime\GamerTime\bin\roslyn\csi.exe
+C:\GamerTime\GamerTime\bin\roslyn\csi.exe.config
+C:\GamerTime\GamerTime\bin\roslyn\csi.rsp
+C:\GamerTime\GamerTime\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GamerTime\GamerTime\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GamerTime\GamerTime\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\GamerTime\GamerTime\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GamerTime\GamerTime\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\GamerTime\GamerTime\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GamerTime\GamerTime\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GamerTime\GamerTime\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\GamerTime\GamerTime\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\GamerTime\GamerTime\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GamerTime\GamerTime\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\GamerTime\GamerTime\bin\roslyn\System.AppContext.dll
+C:\GamerTime\GamerTime\bin\roslyn\System.Collections.Immutable.dll
+C:\GamerTime\GamerTime\bin\roslyn\System.Console.dll
+C:\GamerTime\GamerTime\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\GamerTime\GamerTime\bin\roslyn\System.Diagnostics.Process.dll
+C:\GamerTime\GamerTime\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\GamerTime\GamerTime\bin\roslyn\System.IO.Compression.dll
+C:\GamerTime\GamerTime\bin\roslyn\System.IO.FileSystem.dll
+C:\GamerTime\GamerTime\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\GamerTime\GamerTime\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\GamerTime\GamerTime\bin\roslyn\System.IO.Pipes.dll
+C:\GamerTime\GamerTime\bin\roslyn\System.Reflection.Metadata.dll
+C:\GamerTime\GamerTime\bin\roslyn\System.Security.AccessControl.dll
+C:\GamerTime\GamerTime\bin\roslyn\System.Security.Claims.dll
+C:\GamerTime\GamerTime\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\GamerTime\GamerTime\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\GamerTime\GamerTime\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\GamerTime\GamerTime\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\GamerTime\GamerTime\bin\roslyn\System.Security.Principal.Windows.dll
+C:\GamerTime\GamerTime\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\GamerTime\GamerTime\bin\roslyn\System.Threading.Thread.dll
+C:\GamerTime\GamerTime\bin\roslyn\System.ValueTuple.dll
+C:\GamerTime\GamerTime\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\GamerTime\GamerTime\bin\roslyn\System.Xml.XmlDocument.dll
+C:\GamerTime\GamerTime\bin\roslyn\System.Xml.XPath.dll
+C:\GamerTime\GamerTime\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\GamerTime\GamerTime\bin\roslyn\vbc.exe
+C:\GamerTime\GamerTime\bin\roslyn\vbc.exe.config
+C:\GamerTime\GamerTime\bin\roslyn\vbc.rsp
+C:\GamerTime\GamerTime\bin\roslyn\VBCSCompiler.exe
+C:\GamerTime\GamerTime\bin\roslyn\VBCSCompiler.exe.config
+C:\GamerTime\GamerTime\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GamerTime\GamerTime\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GamerTime\GamerTime\obj\Debug\GamerTime.csprojAssemblyReference.cache
+C:\GamerTime\GamerTime\obj\Debug\GamerTime.csproj.CoreCompileInputs.cache
+C:\GamerTime\GamerTime\obj\Debug\GamerTime.csproj.CopyComplete
+C:\GamerTime\GamerTime\obj\Debug\GamerTime.dll
+C:\GamerTime\GamerTime\obj\Debug\GamerTime.pdb
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\GamerTime.dll.config
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\GamerTime.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\GamerTime.pdb
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\csc.exe
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\csc.exe.config
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\csc.rsp
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\csi.exe
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\csi.exe.config
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\csi.rsp
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\System.AppContext.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\System.Collections.Immutable.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\System.Console.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\System.Diagnostics.Process.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\System.IO.Compression.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\System.IO.FileSystem.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\System.IO.Pipes.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\System.Reflection.Metadata.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\System.Security.AccessControl.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\System.Security.Claims.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\System.Security.Principal.Windows.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\System.Threading.Thread.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\System.ValueTuple.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\System.Xml.XmlDocument.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\System.Xml.XPath.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\vbc.exe
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\vbc.exe.config
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\vbc.rsp
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\VBCSCompiler.exe
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\roslyn\VBCSCompiler.exe.config
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\obj\Debug\GamerTime.csprojResolveAssemblyReference.cache
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\obj\Debug\GamerTime.dll
+C:\WEB-PROJECT\vs-project\GamerTime\GamerTime\obj\Debug\GamerTime.pdb

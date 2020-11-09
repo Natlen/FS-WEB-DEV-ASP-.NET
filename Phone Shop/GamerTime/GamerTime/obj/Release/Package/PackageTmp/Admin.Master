@@ -1,0 +1,116 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="GamerTime.Admin" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Car Rental </title>
+    <!-- custom-theme -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ 
+    <!-- js -->
+    <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+    <script src="js/angular.min.js"></script>
+   
+    <script src="js/main.js"></script>
+    <script src="AngularData/AngularData.js"></script>
+    <script src="js/bootstrap-select.min.js"></script>
+    <!-- css -->
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="css/font-awesome.css" rel="stylesheet" /> 
+    <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" property="" />
+    <link href="css/bootstrap-select.min.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+    <!-- header -->
+
+    <div class="header-bottom">
+		<nav class="navbar navbar-default">
+			<div class="navbar-header navbar-left">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<h1><a class="navbar-brand" href="index.aspx"><span>GAME</span>TIME  - <span>Admin panel</span></a></h1>
+			</div>
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
+				<nav class="link-effect-2" id="link-effect-2">
+					<ul class="nav navbar-nav">
+						<li class="active"><a href="index.aspx"><span data-hover="Home">Home</span></a></li>
+						<li><a href="EditGame.aspx"><span data-hover="Manage Game">Manage Game</span></a></li>
+                        <li><a href="AddGame.aspx"><span data-hover="add Game">add Game</span></a></li>
+                          <li>
+                              <asp:LinkButton ID="Logout" runat="server"  OnClick="Logout_Click"  ><span data-hover="Logout">Logout</span></asp:LinkButton>
+                          </li>
+					</ul>
+				</nav>
+			</div>
+			
+		</nav>
+	</div>
+	
+     <!-- header -->    
+        
+       	
+
+    <!-- content -->
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+
+
+
+
+
+
+
+   
+
+    <!-- start-smooth-scrolling -->
+    <script type="text/javascript" src="js/move-top.js"></script>
+    <script type="text/javascript" src="js/easing.js"></script>
+    <script type="text/javascript">
+	    jQuery(document).ready(function($) {
+		    $(".scroll").click(function(event){		
+			    event.preventDefault();
+			    $('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+		    });
+	    });
+    </script>
+    <!-- start-smooth-scrolling -->
+    <!-- for bootstrap working -->
+	    <script src="js/bootstrap.js"></script>
+    <!-- //for bootstrap working -->
+    <!-- here stars scrolling icon -->
+	    <script type="text/javascript">
+		    $(document).ready(function() {
+			    /*
+				    var defaults = {
+				    containerID: 'toTop', // fading element id
+				    containerHoverID: 'toTopHover', // fading element hover id
+				    scrollSpeed: 1200,
+				    easingType: 'linear' 
+				    };
+			    */
+								
+			    $().UItoTop({ easingType: 'easeOutQuart' });
+								
+			    });
+	    </script>
+    <!-- //here ends scrolling icon -->
+
+
+</body>
+</html>
